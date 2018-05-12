@@ -1,0 +1,33 @@
+_repo: Les-mis-rables-Tome-II--13-Cosette_17493
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17493'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Epic literature'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Ex-convicts -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+title: 'Les misérables Tome II: Cosette'
+url: http://www.gutenberg.org/ebooks/17493
